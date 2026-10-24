@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 (algorithms-and-data-structures)" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="~/PycharmProjects/algorithms-and-data-structures-itmo/.venv" project-jdk-type="Python SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
